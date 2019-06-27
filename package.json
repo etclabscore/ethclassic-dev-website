@@ -1,7 +1,7 @@
 {
-  "name": "ethclassic.dev website",
+  "name": "ethereum-dot-org-website",
   "version": "0.0.1",
-  "description": "ethclassic.dev",
+  "description": "Ethereum.org website",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
