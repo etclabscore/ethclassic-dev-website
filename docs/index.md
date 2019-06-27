@@ -3,7 +3,7 @@ title: Home
 date: June 06, 2019
 sidebar: false
 ---
-<div class="center">Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality.<br><em>This website is a work in progress, if you'd like to contribute, then please contribute on Github :)</em></div>
+<div class="center">Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality.</div>
 
 <div class="intro-blocks">
 
