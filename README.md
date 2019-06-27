@@ -1,4 +1,4 @@
-# EthClassic.Dev
+# Welcome to the source for ethclassic.dev!
 
 This is an open source website for the Ethereum Classic development communtiy. Contributors may simply submit a pull request.
 
