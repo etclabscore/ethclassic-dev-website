@@ -6,9 +6,9 @@
     
 
     <div class="hero-block links">
-      <a href="https://github.com/ethclassic/.dev" target="_blank" title="Fork This Page (Github)" class="sm-hide md-hide"><button>Contribute to this site.</button></a>
+      <a href="https://github.com/etclabscore/ethclassic-dev-website" target="_blank" title="Fork This Page (Github)" class="sm-hide md-hide"><button>Contribute to this site.</button></a>
 
-      <a href="https://github.com/ethclassic/.dev" target="_blank" title="Fork This Page (Github)" class="md-up-hide">
+      <a href="https://github.com/etclabscore/ethclassic-dev-website" target="_blank" title="Fork This Page (Github)" class="md-up-hide">
           <img alt="Github" class="hide-dark" src="../images/icon-github.svg" />
           <img alt="Github" class="show-dark" src="../images/icon-github-white.svg" />
       </a>

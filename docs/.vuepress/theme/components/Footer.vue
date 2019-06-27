@@ -1,6 +1,7 @@
 <template>
   <footer class="footer">
-    <ul>      
+    <ul>
+      <li><a href="https://etclabscore.github.io/etclabscore/ethclassic-dev-website" target="_blank">Github</a></li>      
       <li><a href="https://etclabscore.github.io/etclabscore/" target="_blank">ETC-Labs-Core</a></li>
       <li><a href="https://etclabs.org/" target="_blank">ETC-Labs-Accelerator</a></li>
       <li><a href="https://discord.gg/S9AT3X2">Discord</a></li>
