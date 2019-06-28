@@ -41,7 +41,7 @@ sidebarDepth: 0
   - [Kotti network status](https://stats.kotti.goerli.net/) 
   - [Kotti block explorer](http://kottiexplorer.ethernode.io/) *Provided by Ethernode*
   - [Kotti RPC end-point](https://kotti.ethereumclassic.network/) *https://kotti.ethereumclassic.network/*
-  - [Kotti faucet](http://kottifaucet.me/) *Provided by ETC Labs*
+  - [Kotti faucet](http://kottifaucet.me/)
 
 Kotti is a public Ethereum Classic testnet based on a Proof of Authority concensus mechanism.
 
@@ -71,7 +71,7 @@ Any program that runs on the Ethereum Virtual Machine (EVM) is commonly referred
 
 ### Main-net
 
-- [ethereumclassic.network](https://ethereumclassic.network/) *Provided by ETC Cooperative*
+- [ethereumclassic.network](https://ethereumclassic.network/) *Provided by ECC*
 
 ### Test-net
 
@@ -79,11 +79,11 @@ Any program that runs on the Ethereum Virtual Machine (EVM) is commonly referred
   
 ## Standards and Specifications
 
-- [OpenRPC](https://open-rpc.org/) *Provided by ETC Labs*
+- [OpenRPC](https://open-rpc.org/) *Provided by ECLC*
 
 The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
 
-- [Pristine](https://open-rpc.org/) *Provided by ETC Labs*
+- [Pristine](https://open-rpc.org/) *Provided by ECLC*
 
 Pristine is a starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
 
@@ -93,6 +93,7 @@ Pristine is a starting point, it follows a Documentation Driven Development appr
 - [ETC Labs Core](https://etclabscore.github.io/etclabscore/) *ECLC*
 - [ETC Cooperative](https://etccooperative.org/) *ETCC*
 - [Inpurt Output Hong Kong](https://iohk.io/) *IOHK*
+  
 ### Incubator Organization
-  - ECLC
-  - ETCC
+  - ECLA *Ethereum Classic Labs Accelerator*
+  - ECC *Ethereum Classic Cooperative*

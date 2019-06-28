@@ -1,6 +1,6 @@
 <template>
   <div class="hero relative content-block">
-      <img alt="hero img" class="hide-dark" width="946" height="auto" src="../images/hero.gif" />
+      <img alt="hero img" class="hide-dark" width="946" height="auto" src="../images/hero-dark.png" />
       <img alt="hero img dark" class="show-dark" width="946" height="auto" src="../images/hero-dark.png" />
     
     

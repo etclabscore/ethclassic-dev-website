@@ -45,4 +45,13 @@ sidebar: false
 
   </router-link>
 
+  <router-link to="/news/">
+
+  <ul>
+    <li><span class="arrow">→</span>News</li>
+    <li>Important dev news</li>
+  </ul>
+
+  </router-link>
+
 </div>
