@@ -7,7 +7,7 @@ sidebarDepth: 0
 
 # Guides
 
-<p class="featured" style="color: red">Guide not linked or on this page? Contribute by submitting a Pull Request</p>
+<p class="featured" style="color: red">Guide not linked or on this page? Contribute by submitting a <a href="https://github.com/etclabscore/ethclassic-dev-website">Pull Request</a></p>
 
 ## Client/ Node Guides
 
@@ -19,12 +19,13 @@ sidebarDepth: 0
 
 ## OpenRPC Guides
 
-- OpenRPC Moch Server Demo
+- [Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API](https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6) - Jun 11, 2019 - ETC Labs Core
 - Creating, generating, and deploying an OpenRPC client
 
-## Jade Suit Guides
+## Jade Guides
 
-- Up and Running with Jade Service Runner
+- [Up and Running with Jade Service Runner](https://www.youtube.com/watch?v=Y-Wdg1hgMls)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y-Wdg1hgMls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Data Analytic Guides
 
