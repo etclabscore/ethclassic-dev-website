@@ -10,7 +10,7 @@ sidebarDepth: 0
 The Ethereum Classic community and developer stakeholders have agreed upon a bundle of protocol upgrades, code-named _Atlantis_. The hard fork to activate these features is scheduled to occur at block 8,772,000 around Sept. 17, 2019. The full schedule is as follows:
 
 - Block 716,617 on Kotti Classic PoA-testnet around June 19, 2019.
-- Block 4,729,274 on Morden Classic PoW-testnet around Jun 19, 2019.
+- Block 4,729,274 on Morden Classic PoW-testnet around Jul 29, 2019.
 - Block 8,772,000 on Ethereum Classic PoW-mainnet, around Sept 17, 2019.
 
 To ensure a successful fork, we ask users to upgrade their clients to a fork-compatible version if they have not already done so. The specification proposed for the hard fork is being implemented in the following clients:
