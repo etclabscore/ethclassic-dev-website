@@ -15,7 +15,7 @@ The Ethereum Classic community and developer stakeholders have agreed upon a bun
 
 To ensure a successful fork, we ask users to upgrade their clients to a fork-compatible version if they have not already done so. The specification proposed for the hard fork is being implemented in the following clients:
 
-- [Classic-Geth](https://github.com/ethereumproject/go-ethereum), version [6.0.2-alpha or later](https://github.com/ethereumproject/go-ethereum/releases).
+- [Classic-Geth](https://github.com/etclabscore/go-ethereum), version [6.0.2-alpha or later](https://github.com/etclabscore/go-ethereum/releases).
 - [Multi-Geth](https://github.com/multi-geth/multi-geth), version [1.9.2 or later](https://github.com/multi-geth/multi-geth/releases).
 - [Parity](https://github.com/paritytech/parity-ethereum/releases), version [2.5.3-beta or later](https://github.com/paritytech/parity-ethereum/releases).
 
