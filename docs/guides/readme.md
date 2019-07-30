@@ -1,18 +1,11 @@
 ---
 title: Guides
-lang: en-US
-sidebar: auto
-sidebarDepth: 0
 ---
-
-# Guides
-
-<p class="featured" style="color: red">Guide not linked or on this page? Contribute by submitting a <a href="https://github.com/etclabscore/ethclassic-dev-website">Pull Request</a></p>
 
 ## Client/ Node Guides
 
 - How to setup a...
-  - Classic-Geth node 
+  - Geth-Classic node 
   - Mantis node
   - Multi-Geth node
   - Parity node

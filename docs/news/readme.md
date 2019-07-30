@@ -1,11 +1,11 @@
 ---
 title: News
-lang: en-US
-sidebar: auto
-sidebarDepth: 0
+sidebar: false
 ---
 
 # The Ethereum Classic Atlantis Protocol-Upgrade
+
+![atlantis-banner](https://cdn-images-1.medium.com/max/730/1*1RxLzOy3Tb_5dZcpSFCJRA.jpeg)
 
 The Ethereum Classic community and developer stakeholders have agreed upon a bundle of protocol upgrades, code-named _Atlantis_. The hard fork to activate these features is scheduled to occur at block 8,772,000 around Sept. 17, 2019. The full schedule is as follows:
 

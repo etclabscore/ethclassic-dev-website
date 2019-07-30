@@ -1,0 +1,5 @@
+---
+title: Beginner
+---
+
+# Beginners page

@@ -1,25 +1,12 @@
----
-title: Index
-lang: en-US
-sidebar: auto
-sidebarDepth: 0
----
-
-# Developer Resource Index
-
-<div class="featured">
+# Resource Index
 
   This page is an index of resources related to Ethereum Classic Development.
 
-  <!-- 1. [Generate clients in multiple languages using the OpenRPC service discovery standard.](#standards-and-sepcifications) -->
-
-</div>
-
 ## Clients/ Nodes
 
-- [Classic Geth](https://github.com/ethereumproject/go-ethereum/releases)
+- [Geth Classic](https://github.com/etclabscore/go-ethereum/releases)
 - [Mantis](https://github.com/input-output-hk/mantis)
-- [Multi-Geth](https://github.com/multi-geth/multi-geth)
+- [Multi-Geth](https://github.com/etclabscore/multi-geth)
 - [Parity](https://github.com/paritytech/parity-ethereum/)
 
 ### GUI Clients
@@ -39,7 +26,7 @@ sidebarDepth: 0
 
 - [Kotti Testnet](https://github.com/goerli/testnet)
   - [Kotti network status](https://stats.kotti.goerli.net/) 
-  - [Kotti block explorer](http://kottiexplorer.ethernode.io/) *Provided by Ethernode*
+  - [Kotti block explorer](http://kottiexplorer.ethernode.io/) 
   - [Kotti RPC end-point](https://kotti.ethereumclassic.network/) *https://kotti.ethereumclassic.network/*
   - [Kotti faucet](http://kottifaucet.me/)
 
@@ -67,33 +54,34 @@ Any program that runs on the Ethereum Virtual Machine (EVM) is commonly referred
 ### Looking for other options?
 - [Ethereum Developers Tools List #SmartContractLanguages](https://github.com/ConsenSys/ethereum-developer-tools-list#smart-contract-languages)
 
+## DApp tooling and frameworks
+
+- [Jade Suite](https://jade.builders/)
+- [Truffle Suite](https://www.trufflesuite.com/)
+
 ## Public RPC End-points
 
 ### Main-net
 
-- [ethereumclassic.network](https://ethereumclassic.network/) *Provided by ECC*
+- [ethereumclassic.network](https://ethereumclassic.network/)
 
 ### Test-net
 
-- [kotti.ethereumclassic.network](https://kotti.ethereumclassic.network) *Provided by Ethernode*
-  
+- [kotti.ethereumclassic.network](https://kotti.ethereumclassic.network) 
 ## Standards and Specifications
 
-- [OpenRPC](https://open-rpc.org/) *Provided by ECLC*
+- [OpenRPC](https://open-rpc.org/) 
 
 The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
 
-- [Pristine](https://open-rpc.org/) *Provided by ECLC*
+- [Pristine](https://open-rpc.org/)
 
 Pristine is a starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
 
-## Organizations
+## ETC Supporting Organizations
 
-### Developer Organizations
-- [ETC Labs Core](https://etclabscore.github.io/etclabscore/) *ECLC*
-- [ETC Cooperative](https://etccooperative.org/) *ETCC*
-- [Inpurt Output Hong Kong](https://iohk.io/) *IOHK*
-  
-### Incubator Organization
-  - ECLA *Ethereum Classic Labs Accelerator*
-  - ECC *Ethereum Classic Cooperative*
+- [Ethereum Classic Labs Accelerator](https://etclabs.org/program/) *ECLA*
+- [Ethereum Classic Labs Core](https://etclabs.org/developers) *ECLC*
+- [ETC Cooperative](https://etccooperative.org/) *ECC*
+- [Input Output Hong Kong](https://iohk.io/projects/ethereum-classic/) *IOHK*
+- [Parity Technologies](https://www.parity.io/ethereum/) *Parity*
