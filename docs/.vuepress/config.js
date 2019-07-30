@@ -1,6 +1,6 @@
 module.exports = {
   title: 'ethclassic.dev',
-  description: 'Supporting immutable applications since 192000',
+  description: 'A DApp development resource.',
   themeConfig: {
     sidebar: 'auto',
     nav: [

@@ -12,6 +12,8 @@ In 2014, Ethereum founders Vitalik Buterin, Gavin Wood and Jeffrey Wilcke began 
 
 ## Ethereum Virtual Machine (EVM)
 
+![evm-info-graphic](https://miro.medium.com/max/482/1*CKfZaQRip1LZJlN_tlyy8Q.png)
+
 Ethereum Classic is a programmable blockchain. Rather than give users a set of pre-defined operations (e.g. bitcoin transactions), Ethereum Classic allows users to create operations of any complexity. It serves as a platform for many different types of decentralized blockchain applications, including but not limited to cryptocurrencies.
 
 Ethereum Classic in the narrow sense refers to a suite of protocols that define a platform for decentralized applications. At the heart of it is the Ethereum Virtual Machine (“EVM”), which can execute code of arbitrary algorithmic complexity. In computer science terms, Ethereum Classic is “Turing complete”. Developers can create applications that run on the EVM using friendly programming languages modeled on existing languages like JavaScript and Python.
