@@ -2,7 +2,7 @@
 home: true
 heroImage: https://i.imgur.com/dvk8wvS.png
 actionText: Get started →
-actionLink: /guide/
+actionLink: /beginners/
 features:
 - title: Distributed
   details: Make DApps on a globally distributed-decentralized platform. 
