@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://i.imgur.com/dvk8wvS.png
-actionText: Start building →
+# actionText: Start building → WILL ENABLE SOON
 actionLink: /guide/
 features:
 - title: Distributed
