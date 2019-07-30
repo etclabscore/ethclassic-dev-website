@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Ethereum Classic Development',
+  title: 'ethclassic.dev',
   description: 'Supporting immutable applications since 192000',
   themeConfig: {
     sidebar: 'auto',
