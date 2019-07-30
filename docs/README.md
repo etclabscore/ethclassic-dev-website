@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://i.imgur.com/dvk8wvS.png
-# actionText: Start building → WILL ENABLE SOON
+actionText: Get started →
 actionLink: /guide/
 features:
 - title: Distributed
@@ -13,10 +13,10 @@ features:
 footer: Join the revolution.
 ---
 
-Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality.
+__Ethereum Classic__ is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality.
 
 Feel free to explore this resource to help learn more about DApp development.
 
 ### Contribute
 
-This resource is open-source. To contribute, fork the site's repository and submit a pull request.
+To contribute to this website, [fork](https://github.com/etclabscore/ethclassic-dev-website) this repository and submit a pull request or discuss changes by creating an [issue](https://github.com/etclabscore/ethclassic-dev-website/issues) on Github.
