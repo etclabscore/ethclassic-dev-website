@@ -5,10 +5,12 @@ title: Guides
 ## Client/ Node Guides
 
 - How to setup a...
-  - Geth-Classic node
-  - Mantis node
-  - Multi-Geth node
-  - Parity node
+  - [Geth-Classic]() *A Go-Lang implementation of the ETC protocol.*
+  - [Mantis]() *A Scala implementation of the ETC protocol*
+  - [Multi-Geth]() *A Go-Lang implementation of multiple EVM based protocols, including ETC* 
+  - [Parity]() *A Rust implementation of the ETC 
+
+- [Ethercluter](https://www.ethercluster.com/) *An open-source version of Infura*
 
 ## OpenRPC Guides
 
@@ -26,4 +28,8 @@ title: Guides
 
 ## Smart Contract Guides
 
-- [Deploying a Smart Contract on Kotti testnet](https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d) *by Yaz Khoury*
+- [Kotti, Solidity, ETC, Oh My!](https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d) *by Yaz Khoury*
+
+## IoT Guides
+
+- [Ethereum CLassic on Raspberry Pi](https://medium.com/ethereum-classic/ethereum-classic-on-raspberry-pi-a3be200cdca0) *by Yaz Khoury*
