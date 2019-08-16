@@ -3,31 +3,53 @@ title: News
 sidebar: false
 ---
 
-# The Ethereum Classic Atlantis Protocol-Upgrade
+
+::: danger
+The Ethereum Classic network will be undergoing a planned hard fork at block __8,772,000 mil__ or around __Friday, September 13, 2019__.
+The Kotti test network underwent a hard fork on June 19 at block 716,617 and Morden test network on Jul 29 at block 4,729,274.
+:::
+
+# Atlantis Hard Fork Announcement
 
 ![atlantis-banner](https://cdn-images-1.medium.com/max/730/1*1RxLzOy3Tb_5dZcpSFCJRA.jpeg)
 
-The Ethereum Classic community and developer stakeholders have agreed upon a bundle of protocol upgrades, code-named _Atlantis_. The hard fork to activate these features is scheduled to occur at block 8,772,000 around Sept. 17, 2019. The full schedule is as follows:
-
-- Block 716,617 on Kotti Classic PoA-testnet around June 19, 2019.
-- Block 4,729,274 on Morden Classic PoW-testnet around Jul 29, 2019.
-- Block 8,772,000 on Ethereum Classic PoW-mainnet, around Sept 17, 2019.
+## As a Miner, Exchange, or User, what do I need to do?
 
 To ensure a successful fork, we ask users to upgrade their clients to a fork-compatible version if they have not already done so. The specification proposed for the hard fork is being implemented in the following clients:
 
-- [Classic-Geth](https://github.com/etclabscore/go-ethereum), version [6.0.2-alpha or later](https://github.com/etclabscore/go-ethereum/releases).
+- Block 716,617 on Kotti Classic PoA-testnet around June 19, 2019.
+- Block 4,729,274 on Morden Classic PoW-testnet around Jul 29, 2019.
+- Block 8,772,000 on Ethereum Classic PoW-mainnet, around Sept 13, 2019.
+
+To ensure a successful fork, we ask users to upgrade their clients to a fork-compatible version if they have not already done so. The specification proposed for the hard fork is being implemented in the following clients:
+
+- [Classic-Geth](https://github.com/etclabscore/go-ethereum), version [6.0.8-stable or later](https://github.com/etclabscore/go-ethereum/releases).
 - [Multi-Geth](https://github.com/multi-geth/multi-geth), version [1.9.2 or later](https://github.com/multi-geth/multi-geth/releases).
-- [Parity](https://github.com/paritytech/parity-ethereum/releases), version [2.5.3-beta or later](https://github.com/paritytech/parity-ethereum/releases).
+- [Parity](https://github.com/paritytech/parity-ethereum/releases), version [2.5.6-stable or later](https://github.com/paritytech/parity-ethereum/releases).
 
-The Atlantis Hard Fork specification is described in [ECIP-1054](https://github.com/ethereumproject/ECIPs/blob/master/ECIPs/ECIP-1054.md). To learn more about Atlantis, the following resources will be helpful:
 
-- [ECIP-1054 (Accepted Concensus)](https://github.com/ethereumproject/ECIPs/blob/master/ECIPs/ECIP-1054.md)
-- [ECIP-1054](https://github.com/ethereumclassic/ECIPs/blob/master/ECIPs/ECIP-1054.md)
-- [Going to Atlantis](https://hackernoon.com/going-to-atlantis-ethereum-classic-etc-ecip-1054-hard-fork-a9a84ef6a785)
-- [What's in Atlantis (contract code size limit)](https://medium.com/etclabscore/whats-in-atlantis-eip-170-contract-code-size-limit-af9858b6ed66)
-- [What's in Atlantis (state trie clearing)](https://medium.com/etclabscore/eip-161-state-trie-clearing-a-simplified-explanation-c1aca3e18000)
-- [What's in Atlantis (zkSNARKs)](https://medium.com/etclabscore/whats-in-atlantis-eip196-eip197-precompiled-contracts-and-zksnark-8c1cfec7d3f9)
+## What changes are included in the Atlantis hard fork?
 
-## Contribute to testing
+The following upgrades are included:
 
-The [Kensington](https://github.com/eth-classic/kensington) testnet is a temporary Atlantis-enabled, proof-of-work testnet for Ethereum Classic. ETC contributors have been working deligiently for client readiness and ensuring the software safety for Atlantis. We strongly encourage other node operators to participate in Kensington testing.
+- Addition of ‘REVERT’ opcode, which permits error handling without consuming all gas (EIP 140)
+- Transaction recECIPts now include a status field to indicate success or failure (EIP 658)
+- Elliptic curve addition and scalar multiplication on alt_bn128 (EIP 196) and pairing checks (EIP 197), permitting ZK-Snarks and other cryptographic mathemagic™
+- Support for big integer modular exponentiation (EIP 198), enabling RSA signature verification and other cryptographic applications
+- Support for variable length return values (EIP 211)
+- Addition of the ‘STATICCALL’ opcode, permitting non-state-changing calls to other contracts (EIP 214)
+- Changes to the difficulty adjustment formula to take uncles into account (EIP 100)
+
+
+## What if something goes wrong?
+
+In the event that a critical bug is discovered, the following communication channels will be utilized:
+
+- [Twitter @etclabs](https://twitter.com/etclabs)
+
+## Important Note for Dapp Developers
+
+The way to detect failed transactions will change with Altantis, even for contracts created before the Atlantis hard fork is enacted. After the fork, `eth.getTransactionRecECIPt(…)` will return a status field. The status field has a value of 0 when a transaction has failed and 1 when the transaction has succeeded. For more information, please see [this post on the Ethereum StackExchange](https://ethereum.stackexchange.com/questions/28077/how-do-i-detect-a-failed-transaction-after-the-byzantium-fork-as-the-revert-opco/28078?stw=2#28078).
+A big thanks to the Ethereum Classic development community across all clients and platforms who came together to provide input, thoughts, and contributions for this upgrade.
+
+__DISCLAIMER__ This is an emergent and evolving highly technical space. If you choose to implement the recommendations in this post and continue to participate, you should make sure you understand how it impacts you. You should understand that there are risks involved including but not limited to risks like unexpected bugs. By choosing to implement these recommendations, you alone assume the risks of the consequences. This post and recommendations are not a sale of any kind and do not create any warranties of any kind including but not limited to any relating to the Ethereum Classic network or the Ethereum Classic clients referred to herein.
