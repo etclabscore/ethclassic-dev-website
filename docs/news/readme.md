@@ -3,6 +3,8 @@ title: News
 sidebar: false
 ---
 
+![atlantis-banner](https://cdn-images-1.medium.com/max/730/1*1RxLzOy3Tb_5dZcpSFCJRA.jpeg)
+
 Dear Ethereum Classic stakeholder,
 
 The Ethereum Classic (ETC) network will be undergoing a planned hard fork at block  **8,772,000**  mil or around 12:00 UTC and 13:00 UTC on  **Friday, September 13, 2019**.
