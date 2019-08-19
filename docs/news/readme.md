@@ -7,8 +7,9 @@ sidebar: false
 
 Dear Ethereum Classic stakeholder,
 
+:::danger
 The Ethereum Classic (ETC) network will be undergoing a planned hard fork at block  **8,772,000**  mil or around 12:00 UTC and 13:00 UTC on  **Friday, September 13, 2019**.
-
+:::
 The Kotti test network underwent a hard fork on June 19 at block 716,617 and Morden test network on Jul 29 at block 4,729,274.
 
 **As a Miner, Exchange, or User, what do I need to do?**
