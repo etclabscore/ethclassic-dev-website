@@ -4,13 +4,16 @@
 
 ## Clients/ Nodes
 
-- [Geth Classic](https://github.com/etclabscore/go-ethereum/releases)
-- [Mantis](https://github.com/input-output-hk/mantis)
-- [Multi-Geth](https://github.com/etclabscore/multi-geth)
-- [Parity](https://github.com/paritytech/parity-ethereum/)
+- [Geth Classic](https://github.com/etclabscore/go-ethereum/releases) *etc client based on go*
+- [Mantis](https://github.com/input-output-hk/mantis) *multi-client based on scala*
+- [Multi-Geth](https://github.com/etclabscore/multi-geth) *multi-client based on go*
+- [Parity](https://github.com/paritytech/parity-ethereum/) *multi-client based on rust*
+- [Ethercluster](https://www.ethercluster.com/) *open-source alternative to infura*
 
 ### GUI Clients
 
+- [Jade Service Runner UI](https://github.com/etclabscore/jade-service-runner-ui/)
+- [Grid](https://grid.ethereum.org/)
 - [Emerald Wallet](https://emeraldwallet.io/)
 
 ## Stand-alone EVM
@@ -19,10 +22,12 @@
 
 ## Network Analytics and Monitoring
 
-- [ETC Status](https://etcstatus.live/) *Live mainnet status* 
-- [Etherlog](https://github.com/etclabscore/etherlog) *ELK stack on Docker for Geth*
+- [ETC Status](https://etcstatus.live/) *live main-net status* 
+- [Etherlog](https://github.com/etclabscore/etherlog) *ELK configuration for geth clients*
 
 ## Test Networks
+
+Kotti is a public Ethereum Classic testnet based on a Proof of Authority concensus mechanism.
 
 - [Kotti Testnet](https://github.com/goerli/testnet)
   - [Kotti network status](https://stats.kotti.goerli.net/) 
@@ -30,12 +35,10 @@
   - [Kotti RPC end-point](https://kotti.ethereumclassic.network/) *https://kotti.ethereumclassic.network/*
   - [Kotti faucet](http://kottifaucet.me/)
 
-Kotti is a public Ethereum Classic testnet based on a Proof of Authority concensus mechanism.
+Astor is a public Ethereum Classic testnet using Sha3 for PoW and based on ECIP-1049.
 
 - [Astor Testnet](https://astor.host/)
   - [Astor network status](https://stats.astor.host/)
-
-Astor is a public Ethereum Classic testnet using Sha3 for PoW and based on ECIP-1049.
 
 ## Smart Contract Languages
 

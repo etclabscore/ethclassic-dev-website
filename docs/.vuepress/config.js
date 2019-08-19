@@ -18,9 +18,9 @@ module.exports = {
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'EthClassic' }],
     ['meta', { property: 'og:site_name', content: 'ethclassic.dev' }],
-    ['meta', { property: 'og:description', content: 'The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.' }],
+    ['meta', { property: 'og:description', content: 'Ethereum Classic development documentation. Building on Ethereum Classic.' }],
     ['meta', { property: 'og:url', content: 'https://ethclassic.dev' }],
-    ['meta', { property: 'og:image', content: 'https://github.com/open-rpc/design/raw/master/png/open-rpc-logo-320x320.png?raw=true' }],
+    ['meta', { property: 'og:image', content: 'https://i.imgur.com/dvk8wvS.png' }],
     ['script', { async: true, defer: true, src: 'https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' },
     `
       new Crate({
