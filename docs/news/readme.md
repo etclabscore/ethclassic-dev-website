@@ -16,7 +16,7 @@ The Kotti test network underwent a hard fork on June 19 at block 716,617 and Mor
 
 To ensure a successful fork, we ask users to upgrade their clients to a fork-compatible version if they have not already done so. The specification proposed for the hard fork is being implemented in the following clients:
 
-- Classic-Geth, version [**6.0.8-stable  or later**](https://github.com/etclabscore/go-ethereum/releases).
+- Classic-Geth, version [**6.0.9-stable  or later**](https://github.com/etclabscore/go-ethereum/releases).
 - Multi-Geth, version [**1.9.2-stable or later**](https://github.com/etclabscore/multi-geth/releases).
 - Parity, version [**2.5.6-stable or later**](https://github.com/paritytech/parity-ethereum/releases).
 
