@@ -6,7 +6,7 @@ title: jade-explorer-a-minimum-block-explorer-for-the-ethereum-stack
 
 ![](https://user-images.githubusercontent.com/364566/62577862-aa927780-b854-11e9-9aba-a58eb7b44a47.png)
 
-Jade Explorer is a minimal block explorer for the Ethereum Stack. The explorer utilizes Jade Service Runner for managing background services (Multi-Geth), OpenRPC for underlying functionality, and Pristine. It does not use a database, and can be configured to point at any remote RPC node for any EVM-based network. The goal of Jade Explorer is to provide a resource for network information and block exploration.
+[Jade Explorer](https://explorer.jade.builders/) is a minimal block explorer for the Ethereum Stack. The explorer utilizes [Jade Service Runner](https://github.com/etclabscore/jade-service-runner) for managing background services (Multi-Geth), OpenRPC for underlying functionality, and Pristine. It does not use a database, and can be configured to point at any remote RPC node for any EVM-based network. The goal of Jade Explorer is to provide a resource for network information and block exploration.
 
 Explorer Features:
 
@@ -17,16 +17,16 @@ Explorer Features:
 - Charts for hash, transaction count, gas used, uncles
 - Preview latest blocks
 
-https://twitter.com/Yazanator/status/1169672697632215040?s=20
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/Jade?src=hash&amp;ref_src=twsrc%5Etfw">#Jade</a> Explorer by <a href="https://twitter.com/shanejonas?ref_src=twsrc%5Etfw">@shanejonas</a> and <a href="https://twitter.com/etclabscore?ref_src=twsrc%5Etfw">@etclabscore</a> can use <a href="https://twitter.com/hashtag/Ethercluster?src=hash&amp;ref_src=twsrc%5Etfw">#Ethercluster</a> directly to provide an explorer using just the URL. <br><br>Check it out here using Ethercluster: <a href="https://t.co/z34HGSUyih">https://t.co/z34HGSUyih</a><br><br>No database needed. This is the type of dev collaboration I&#39;ve dreamt about across teams.</p>&mdash; Yaz Khoury (@Yazanator) <a href="https://twitter.com/Yazanator/status/1169672697632215040?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Need a block explorer for your EVM-based client? Just add it in the url `https://explorer.jade.builders/?rpcUrl=https://`. Here are some examples:
 
-- ETC mainnet https://explorer.jade.builders/?rpcUrl=https://www.ethercluster.com/etc
-- Kotti (ETC testnet) https://explorer.jade.builders/?rpcUrl=https://www.ethercluster.com/kotti
-- ETH mainnet https://explorer.jade.builders/?rpcUrl=https://main-rpc.linkpool.io/
-- Goerli (ETH testnet) https://explorer.jade.builders/?rpcUrl=https://rpc.slock.it/goerli 
+- ETC mainnet [https://explorer.jade.builders/?rpcUrl=https://www.ethercluster.com/etc](https://explorer.jade.builders/?rpcUrl=https://www.ethercluster.com/etc)
+- Kotti (ETC testnet) [https://explorer.jade.builders/?rpcUrl=https://www.ethercluster.com/kotti](https://explorer.jade.builders/?rpcUrl=https://www.ethercluster.com/kotti)
+- ETH mainnet [https://explorer.jade.builders/?rpcUrl=https://main-rpc.linkpool.io/](https://explorer.jade.builders/?rpcUrl=https://main-rpc.linkpool.io/)
+- Goerli (ETH testnet) [https://explorer.jade.builders/?rpcUrl=https://rpc.slock.it/goerli](https://explorer.jade.builders/?rpcUrl=https://rpc.slock.it/goerli )
 
-Current interface settings allow light-dark mode, set service-runner rpcURL or Ethereum rpcURL.
+Current interface settings allow light-dark mode, set service-runner rpcURL or Ethereum rpcURL. More interface settings are coming!
 
 ![](https://github.com/etclabscore/jade-media-assets/blob/master/screenshots/jade-explorer_settings.gif?raw=true)
 
@@ -60,7 +60,7 @@ Jade Service Runner will run at http://localhost:8002/.
 npm start
 ```
 
-The explorer will run at http://localhost:3000/ which should display multi-geth's status, and make sure multi-geth is running.
+The explorer will run at `http://localhost:3000/` which should display multi-geth's status, and make sure multi-geth is running.
 
 ### Notes on Multi-Geth & Service Runner
 
@@ -106,6 +106,7 @@ REACT_APP_SERVICE_RUNNER_URL=https://services.jade.builders/ npm start
 
 ## Resources
 
+- [Jade Suite HQ](https://jade.builders)
 - [Ethereum JSON RPC Specification](https://github.com/etclabscore/ethereum-json-rpc-specification)
 - [Jade Service Runner](https://github.com/etclabscore/jade-service-runner)
 - [OpenRPC](https://open-rpc.org)
