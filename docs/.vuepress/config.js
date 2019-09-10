@@ -2,6 +2,7 @@ module.exports = {
   title: 'ethclassic.dev',
   description: 'A DApp development resource.',
   themeConfig: {
+    logo: 'https://github.com/stevanlohja/ETC_Gifs/blob/master/etc_logo_green.png?raw=true',
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },

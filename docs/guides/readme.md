@@ -5,10 +5,10 @@ title: Guides
 ## Client/ Node Guides
 
 - How to setup a...
-  - [Geth-Classic]() *A Go-Lang implementation of the ETC protocol.*
-  - [Mantis]() *A Scala implementation of the ETC protocol*
-  - [Multi-Geth]() *A Go-Lang implementation of multiple EVM based protocols, including ETC* 
-  - [Parity]() *A Rust implementation of the ETC 
+  - [Geth-Classic](/guides/articles/how-to-setup-a-geth-classic-node.md) *An ETC client written in Go.*
+  - [Mantis]() *An ETC supporting client written in Scala*
+  - [Multi-Geth]() *An ETC supporting client written in Go.*
+  - [Parity]() *An ETC supporting client written in Rust.*
 
 - [Ethercluter](https://www.ethercluster.com/) *An open-source version of Infura*
 
@@ -21,6 +21,8 @@ title: Guides
 
 - [Up and Running with Jade Service Runner](https://www.youtube.com/watch?v=Y-Wdg1hgMls)
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y-Wdg1hgMls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Jade Explorer, A Minimal Block Explorer for the Ethereum Stack](/guides/articles/jade-explorer-a-minimum-block-explorer-for-the-ethereum-stack.md)
 
 ## Data Analytic Guides
 
