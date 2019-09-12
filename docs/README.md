@@ -14,7 +14,7 @@ footer: Join the revolution.
 ---
 
 ::: tip
-The Ethereum Classic network successfull executed a hard fork at block __8,772,000 mil__ on __September 12, 2019__. Major exchanges, wallets, dapps, and services have updated their clients to Atlantis-enabled versions. __Ensure your GethClassic, MultiGeth, and/ or Parity clients are updated.__
+The Ethereum Classic network successfully executed a hard fork at block __8,772,000 mil__ on __September 12, 2019__. Major exchanges, wallets, dapps, and services have updated their clients to Atlantis-enabled versions. __Ensure your GethClassic, MultiGeth, and/ or Parity clients are updated.__
 :::
 
 __Ethereum Classic__ is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality.

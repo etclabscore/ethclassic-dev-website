@@ -6,7 +6,7 @@ sidebar: false
 Dear Ethereum Classic stakeholder,
 
 ::: tip
-The Ethereum Classic network successfull executed a hard fork at block __8,772,000 mil__ on __September 12, 2019__. Major exchanges, wallets, dapps, and services have updated their clients to Atlantis-enabled versions. __Ensure your GethClassic, MultiGeth, and/ or Parity clients are updated.__
+The Ethereum Classic network successfully executed a hard fork at block __8,772,000 mil__ on __September 12, 2019__. Major exchanges, wallets, dapps, and services have updated their clients to Atlantis-enabled versions. __Ensure your GethClassic, MultiGeth, and/ or Parity clients are updated.__
 :::
 
 - Classic-Geth, version [**6.0.9-stable  or later**](https://github.com/etclabscore/go-ethereum/releases).
