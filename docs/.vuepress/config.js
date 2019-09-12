@@ -10,7 +10,7 @@ module.exports = {
       { text: 'Guides', link: '/guides/' },
       { text: 'APIs', link: '/apis/' },
       { text: 'Resources', link: '/resources/' },
-      { text: '⚠️ Atlantis', link: '/news/' },
+      { text: '⚠️News', link: '/news/' },
     ]
   },
   head: [
