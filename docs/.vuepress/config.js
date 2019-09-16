@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'ethclassic.dev',
+  title: 'Ethereum Classic Development',
   description: 'A DApp development resource.',
   themeConfig: {
     logo: 'https://github.com/stevanlohja/ETC_Gifs/blob/master/etc_logo_green.png?raw=true',
@@ -10,7 +10,7 @@ module.exports = {
       { text: 'Guides', link: '/guides/' },
       { text: 'APIs', link: '/apis/' },
       { text: 'Resources', link: '/resources/' },
-      { text: '⚠️News', link: '/news/' },
+      { text: '⚠️News⚠️', link: '/news/' },
     ]
   },
   head: [
@@ -26,7 +26,7 @@ module.exports = {
     `
       new Crate({
         server: '538420083614023710',
-        channel: '543112562405933116',
+        channel: '538420084365066251',
         shard: 'https://disweb.deploys.io'
       })
     `]

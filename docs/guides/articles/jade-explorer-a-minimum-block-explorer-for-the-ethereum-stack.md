@@ -4,7 +4,7 @@ title: jade-explorer-a-minimum-block-explorer-for-the-ethereum-stack
 
 # Jade Explorer, A Minimal Block Explorer for the Ethereum Stack
 
-![](https://user-images.githubusercontent.com/364566/62577862-aa927780-b854-11e9-9aba-a58eb7b44a47.png)
+![](https://github.com/etclabscore/jade-media-assets/blob/master/screenshots/jade-explorer-v1.1.0.png?raw=true)
 
 [Jade Explorer](https://explorer.jade.builders/) is a minimal block explorer for the Ethereum Stack. The explorer utilizes [Jade Service Runner](https://github.com/etclabscore/jade-service-runner) for managing background services (Multi-Geth), OpenRPC for underlying functionality, and Pristine. It does not use a database, and can be configured to point at any remote RPC node for any EVM-based network. The goal of Jade Explorer is to provide a resource for network information and block exploration.
 
@@ -26,9 +26,15 @@ Need a block explorer for your EVM-based client? Just add it in the url `https:/
 - ETH mainnet [https://explorer.jade.builders/?rpcUrl=https://main-rpc.linkpool.io/](https://explorer.jade.builders/?rpcUrl=https://main-rpc.linkpool.io/)
 - Goerli (ETH testnet) [https://explorer.jade.builders/?rpcUrl=https://rpc.slock.it/goerli](https://explorer.jade.builders/?rpcUrl=https://rpc.slock.it/goerli )
 
-Current interface settings allow light-dark mode, set service-runner rpcURL or Ethereum rpcURL. More interface settings are coming!
+Maybe you want to see how much the DAO hacker HODLs lol
 
-![](https://github.com/etclabscore/jade-media-assets/blob/master/screenshots/jade-explorer_settings.gif?raw=true)
+![](https://github.com/etclabscore/jade-media-assets/blob/master/screenshots/jade-explorer-v1.1.0-searching.gif?raw=true)
+
+Current menu items in the header include ethereum-json-rpc documentation, source-code, rpcURL configurations, and light-dark mode.
+
+![](https://github.com/etclabscore/jade-media-assets/blob/master/screenshots/jade-explorer-v1.1.0-menu-items.gif?raw=true)
+
+---
 
 ## Install
 

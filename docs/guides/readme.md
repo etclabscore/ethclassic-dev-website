@@ -2,6 +2,7 @@
 title: Guides
 ---
 
+
 ## Client/ Node Guides
 
 - How to setup a...
@@ -20,8 +21,6 @@ title: Guides
 ## Jade Suite Guides
 
 - [Up and Running with Jade Service Runner](https://www.youtube.com/watch?v=Y-Wdg1hgMls)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y-Wdg1hgMls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 - [Jade Explorer, A Minimal Block Explorer for the Ethereum Stack](/guides/articles/jade-explorer-a-minimum-block-explorer-for-the-ethereum-stack.md)
 
 ## Data Analytic Guides
