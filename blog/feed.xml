@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ethereum Classic Developers Blog</title>
+        <link>https://etclabscore.github.io/ethclassic-dev-website/blog</link>
+        <description>The best place to stay up-to-date with the latest Ethereum Classic Developers news and events.</description>
+        <lastBuildDate>Mon, 14 Oct 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Ethereum Classic Developers Blog</title>
+            <url>https://etclabscore.github.io/ethclassic-dev-website/img/favicon.ico</url>
+            <link>https://etclabscore.github.io/ethclassic-dev-website/blog</link>
+        </image>
+        <copyright>MIT 2019 License</copyright>
+        <item>
+            <title><![CDATA[Ethereum Classic Labs Core — Quarterly Development Review Q3, 2019]]></title>
+            <link>https://etclabscore.github.io/ethclassic-dev-website/blog/2019/10/14/eclc-q3-dev-review.html</link>
+            <guid>https://etclabscore.github.io/ethclassic-dev-website/blog/2019/10/14/eclc-q3-dev-review.html</guid>
+            <pubDate>Mon, 14 Oct 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src="https://github.com/stevanlohja/ETC_Gifs/blob/master/etc_death_star.png?raw=true" alt="article_banner"></p> <p>It’s been 10 months since Ethereum Classic Labs Core (ECLC) launched, and we are blessed to have made so much progress since.</p> <h2><a class="anchor" aria-hidden="true" id="atlantis-next-stop-agharta"></a><a href="#atlantis-next-stop-agharta" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>Atlantis, next stop Agharta</h2> <p>The ETC community worked relentlessly to coordinate the Atlantis hard fork. ECL/ ECLC are proud...</p>]]></description>
+        </item>
+    </channel>
+</rss>
