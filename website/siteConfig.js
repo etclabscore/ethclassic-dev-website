@@ -53,7 +53,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Ethereum Classic | Developers', // Title for your website.
+  title: 'Ethereum Classic Developers', // Title for your website.
   tagline: 'A website for classic EthereumStack developers.',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -62,7 +62,7 @@ const siteConfig = {
     baseUrl: '/ethclassic-dev-website/',
 
   // Used for publishing and more
-  projectName: 'Ethereum Classic | Developers',
+  projectName: 'Ethereum Classic Developers',
   organizationName: 'Ethereum Classic Devs',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
