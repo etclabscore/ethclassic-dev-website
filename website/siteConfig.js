@@ -55,20 +55,12 @@ const users = [
 const siteConfig = {
   title: 'Ethereum Classic Developers', // Title for your website.
   tagline: 'A website for classic EthereumStack developers.',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
-  // For github.io type URLs, you would set the url and baseUrl like:
     url: 'https://etclabscore.github.io',
     baseUrl: '/ethclassic-dev-website/',
-
-  // Used for publishing and more
-  projectName: 'Ethereum Classic Developers',
-  organizationName: 'Ethereum Classic Devs',
-  // For top-level user or org sites, the organization is still the same.
-  // e.g., for the https://JoelMarcey.github.io site, it would be set like...
+    projectName: 'ethclassic-dev-website',
     organizationName: 'etclabscore',
     cname: 'ethclassic.dev',
-  // For no header links in the top nav bar -> headerLinks: [],
+
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'api', label: 'API'},
@@ -76,7 +68,6 @@ const siteConfig = {
     {blog: true, label: 'Blog'},
   ],
 
-  // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
